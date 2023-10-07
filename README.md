@@ -2,4 +2,4 @@
 For demonstration, show how merge conflicts arise and are resolved
 
 
-make some change to a file.
+make a different change to the README file.
